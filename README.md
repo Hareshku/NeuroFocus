@@ -1,7 +1,3 @@
-Project Abstract
+**NeuroFocus**
 
-This project explores the integration of Brain–Computer Interfaces (BCI) with empathetic AI to improve human productivity and well-being. 
-Using multimodal signals such as EEG, PPG, accelerometer, and gyroscope data, the system monitors mental states including stress, focus, and engagement in real time. 
-The collected signals are processed by an AI agent that provides personalized feedback and guidance through activities such as deep breathing, music, or reading. 
-Unlike existing wearables that only track physical health, this solution creates a closed feedback loop—detecting the user’s state, suggesting interventions, and validating their effectiveness. 
-By bridging neuroscience and AI, the project aims to empower individuals—students, professionals, and everyday users—to manage stress, sustain focus, and enhance productivity through adaptive, evidence-based support.
+**NeuroFocus** combines Brain–Computer Interface (BCI) technology with an empathetic AI agent to bridge the gap between the human mind and digital interaction. It reads brain and body signals (like EEG, PPG, and motion data) to understand a user’s mental state. Such as focus, stress, or fatigue and responds intelligently through an LLM-powered assistant. This AI adapts the interface, guides relaxation or learning activities, provides emotional support, and can even help people with limited mobility communicate naturally. NeuroFocus aims to create a more human-centered, adaptive, and supportive technology experience driven directly by the user’s brain signals.
